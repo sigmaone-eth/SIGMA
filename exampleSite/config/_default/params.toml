@@ -19,7 +19,7 @@ enable = false
 preloader = ""
 [[social]]
 icon = "fab fa-facebook"
-link = "#https://www.facebook.com/estefano.gomez"
+link = ""
 title = "facebook"
 [[social]]
 icon = "fab fa-twitter"
