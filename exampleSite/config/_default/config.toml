@@ -1,4 +1,4 @@
-baseURL = "http://sigma.netlify.com"
+baseURL = "http://sigma.netlify.app"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
