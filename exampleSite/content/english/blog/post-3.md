@@ -151,8 +151,6 @@ raw Markdown line up prettily. You can also use inline Markdown.
 
 <hr>
 
-##### Image
-
 ![](/images/pexels-pixabay-315788.jpg)
 
 <hr>
