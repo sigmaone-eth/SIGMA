@@ -23,7 +23,7 @@ link = ""
 title = "facebook"
 [[social]]
 icon = "fab fa-twitter"
-link = "#"
+link = "#facebook.com"
 title = "twitter"
 [[social]]
 icon = "fab fa-skype"
